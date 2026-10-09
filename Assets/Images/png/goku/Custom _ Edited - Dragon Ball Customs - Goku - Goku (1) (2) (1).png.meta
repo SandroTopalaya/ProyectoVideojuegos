@@ -1,0 +1,6227 @@
+fileFormatVersion: 2
+guid: 21b273b41b41aac48b5a12f8c5967239
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8102260636806429576
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_0
+  - first:
+      213: 2934292213469878596
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_1
+  - first:
+      213: 3670390706793664797
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_2
+  - first:
+      213: 7133785176716295040
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_3
+  - first:
+      213: 3896243061746415615
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_4
+  - first:
+      213: 2116720866363453743
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_5
+  - first:
+      213: 18315040869896982
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_6
+  - first:
+      213: 8016761860984948716
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_7
+  - first:
+      213: 782865475604047519
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_8
+  - first:
+      213: -2759071149582350453
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_9
+  - first:
+      213: 8112550706576959844
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_10
+  - first:
+      213: -4462254773796037564
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_11
+  - first:
+      213: 6318315592598337605
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_12
+  - first:
+      213: 7426732169177773414
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_13
+  - first:
+      213: 7891849384617750036
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_14
+  - first:
+      213: -6127367656493512853
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_15
+  - first:
+      213: 821418167400268896
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_16
+  - first:
+      213: -4205686866453232234
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_17
+  - first:
+      213: -1574973618447580563
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_18
+  - first:
+      213: -7982309677306263175
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_19
+  - first:
+      213: -4087208363922548737
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_20
+  - first:
+      213: -7219558042177579594
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_21
+  - first:
+      213: -4659280416741582803
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_22
+  - first:
+      213: -7117891269997981243
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_23
+  - first:
+      213: 5421722004602896563
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_24
+  - first:
+      213: 404653236336973159
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_25
+  - first:
+      213: -2778240675859986538
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_26
+  - first:
+      213: -1741655249524877239
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_27
+  - first:
+      213: 4086738235935176692
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_28
+  - first:
+      213: -7331154636784863749
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_29
+  - first:
+      213: -1454714087379799531
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_30
+  - first:
+      213: 2836103080400738810
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_31
+  - first:
+      213: 495168018773330980
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_32
+  - first:
+      213: 8127121379064675396
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_33
+  - first:
+      213: 6080408755662954786
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_34
+  - first:
+      213: 3946475503496145040
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_35
+  - first:
+      213: 5455076800684633206
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_36
+  - first:
+      213: 1951798555983743314
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_37
+  - first:
+      213: -8173734915491852826
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_38
+  - first:
+      213: 6537893409924204646
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_39
+  - first:
+      213: 6971469740092745977
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_40
+  - first:
+      213: -5154744406456212337
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_41
+  - first:
+      213: -5349991743617660496
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_42
+  - first:
+      213: 3360126517595541943
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_43
+  - first:
+      213: 1714753444101666353
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_44
+  - first:
+      213: 1309481961124921911
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_45
+  - first:
+      213: -6716491645034253159
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_46
+  - first:
+      213: 7600743490896450741
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_47
+  - first:
+      213: 2487414767551724658
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_48
+  - first:
+      213: 3716914172579202742
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_49
+  - first:
+      213: 1766411474965613497
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_50
+  - first:
+      213: 1255255422104641463
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_51
+  - first:
+      213: -406434448607744702
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_52
+  - first:
+      213: 8034256948989711203
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_53
+  - first:
+      213: 1753712449292814678
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_54
+  - first:
+      213: 2315948497785583735
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_55
+  - first:
+      213: 2933097207137588477
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_56
+  - first:
+      213: -6846575269874798765
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_57
+  - first:
+      213: -949601725814098170
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_58
+  - first:
+      213: -4362918148536323077
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_59
+  - first:
+      213: 3875885013391613238
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_60
+  - first:
+      213: -5113139393421407662
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_61
+  - first:
+      213: -3462626064478425181
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_62
+  - first:
+      213: -922178087089971874
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_63
+  - first:
+      213: 4468258771697573388
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_64
+  - first:
+      213: 8787527289911944685
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_65
+  - first:
+      213: 9214192951590029408
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_66
+  - first:
+      213: 2730572509904970837
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_67
+  - first:
+      213: -3326560420931426600
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_68
+  - first:
+      213: -7983822186054225230
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_69
+  - first:
+      213: -2552728377386134312
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_70
+  - first:
+      213: 2630305951889593938
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_71
+  - first:
+      213: 3748310230133668589
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_72
+  - first:
+      213: -2523490448494659123
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_73
+  - first:
+      213: -5036472777529313976
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_74
+  - first:
+      213: 7930283174878764544
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_75
+  - first:
+      213: -3190134913995124316
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_76
+  - first:
+      213: -3423523355741879267
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_77
+  - first:
+      213: -2796177161604574599
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_78
+  - first:
+      213: -5819059591108386011
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_79
+  - first:
+      213: -2464930738942656516
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_80
+  - first:
+      213: -427505233939913249
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_81
+  - first:
+      213: -2150587770862368145
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_82
+  - first:
+      213: -3765661850823127175
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_83
+  - first:
+      213: 3439970537935131587
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_84
+  - first:
+      213: -7533684244521514067
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_85
+  - first:
+      213: -6948435149980097975
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_86
+  - first:
+      213: 5559378490844232186
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_87
+  - first:
+      213: -7818663067524488480
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_88
+  - first:
+      213: -8892445408773270815
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_89
+  - first:
+      213: 8627652157153701916
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_90
+  - first:
+      213: 7910053822715960428
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_91
+  - first:
+      213: -8019160137304339110
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_92
+  - first:
+      213: -4269441004564187929
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_93
+  - first:
+      213: 7697641232426880241
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_94
+  - first:
+      213: 8767833594692597430
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_95
+  - first:
+      213: 3150489256581604071
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_96
+  - first:
+      213: 6816331805005526884
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_97
+  - first:
+      213: 7042953101986279660
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_98
+  - first:
+      213: -9200717024586101345
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_99
+  - first:
+      213: -9067349311558267597
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_100
+  - first:
+      213: -1092262896651498954
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_101
+  - first:
+      213: -2805354784343368627
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_102
+  - first:
+      213: 1060517857774249568
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_103
+  - first:
+      213: 2377475815702431273
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_104
+  - first:
+      213: 6386537779908513950
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_105
+  - first:
+      213: 5057689672385428126
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_106
+  - first:
+      213: 9097762193496931680
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_107
+  - first:
+      213: -4317161230303318279
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_108
+  - first:
+      213: 3802957707575208040
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_109
+  - first:
+      213: -5531321000464738714
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_110
+  - first:
+      213: 957684847516343412
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_111
+  - first:
+      213: 5977009617059125607
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_112
+  - first:
+      213: -421491716854912990
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_113
+  - first:
+      213: -707300713831549365
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_114
+  - first:
+      213: -4346956993198657360
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_115
+  - first:
+      213: 5828908705737120195
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_116
+  - first:
+      213: 3016514293429891764
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_117
+  - first:
+      213: -6340643338183400128
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_118
+  - first:
+      213: -6914801511353315659
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_119
+  - first:
+      213: -6004196299311903615
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_120
+  - first:
+      213: -728536401693457999
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_121
+  - first:
+      213: 6369664849345219061
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_122
+  - first:
+      213: -3949383076689245835
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_123
+  - first:
+      213: 4132189044223482844
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_124
+  - first:
+      213: 694234948194937556
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_125
+  - first:
+      213: 2689565952460250099
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_126
+  - first:
+      213: 7783782400458806810
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_127
+  - first:
+      213: -1514055964929665436
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_128
+  - first:
+      213: -265735843889783069
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_129
+  - first:
+      213: -1974584589489668163
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_130
+  - first:
+      213: -2562054147157750472
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_131
+  - first:
+      213: -6027042325500168567
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_132
+  - first:
+      213: 8534568879692605965
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_133
+  - first:
+      213: 8100918969814734871
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_134
+  - first:
+      213: 909942634086548757
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_135
+  - first:
+      213: -5474984589245536847
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_136
+  - first:
+      213: -7423304904302227120
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_137
+  - first:
+      213: -872235198327105918
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_138
+  - first:
+      213: -272008807669827029
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_139
+  - first:
+      213: -820131352989210325
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_140
+  - first:
+      213: -3536527678998354599
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_141
+  - first:
+      213: 1213842371578066887
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_142
+  - first:
+      213: -3392105479544711066
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_143
+  - first:
+      213: 2645212795805758515
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_144
+  - first:
+      213: 8089179638654839421
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_145
+  - first:
+      213: 3589604469276761216
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_146
+  - first:
+      213: 5727543799600680764
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_147
+  - first:
+      213: -9048439233917030273
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_148
+  - first:
+      213: -8429815177172529758
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_149
+  - first:
+      213: 3420955664299636043
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_150
+  - first:
+      213: -2092925947034273290
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_151
+  - first:
+      213: -4375644629934122145
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_152
+  - first:
+      213: -6474185019349726680
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_153
+  - first:
+      213: -2722386370370399055
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_154
+  - first:
+      213: 3938721171639094610
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_155
+  - first:
+      213: -3540486631799811146
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_156
+  - first:
+      213: 7349830463965883611
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_157
+  - first:
+      213: 6143689946095200807
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_158
+  - first:
+      213: 543858822136227419
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_159
+  - first:
+      213: 5670849152420814411
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_160
+  - first:
+      213: 3223289533513197878
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_161
+  - first:
+      213: -2562220529049271934
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_162
+  - first:
+      213: -4790185819931550397
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_163
+  - first:
+      213: -9210258113848609436
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_164
+  - first:
+      213: 89373605580505199
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_165
+  - first:
+      213: 2114927996070276161
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_166
+  - first:
+      213: 8785384511199169779
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_167
+  - first:
+      213: -2919204027249605253
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_168
+  - first:
+      213: -3985782860927226789
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_169
+  - first:
+      213: -3808798672387639897
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_170
+  - first:
+      213: -6529514393529884848
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_171
+  - first:
+      213: -6744524285489453260
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_172
+  - first:
+      213: -7982507412976567251
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_173
+  - first:
+      213: -3710459304348256766
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_174
+  - first:
+      213: -5459419814150818675
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_175
+  - first:
+      213: 4902993291524565232
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_176
+  - first:
+      213: 4280868920516688772
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_177
+  - first:
+      213: 5914537583644060966
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_178
+  - first:
+      213: 6084930754821880382
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_179
+  - first:
+      213: -1944013230723635545
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_180
+  - first:
+      213: -8175734901899622989
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_181
+  - first:
+      213: -7631870754400521496
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_182
+  - first:
+      213: -862960468114521468
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_183
+  - first:
+      213: 7398071116731388752
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_184
+  - first:
+      213: 6371580122652556529
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_185
+  - first:
+      213: -2555061066963043020
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_186
+  - first:
+      213: -2587073536555730831
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_187
+  - first:
+      213: 6976734550088792929
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_188
+  - first:
+      213: -7724640017015461157
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_189
+  - first:
+      213: -3008891984125869996
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_190
+  - first:
+      213: -727292712858694098
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_191
+  - first:
+      213: -3166122093006112533
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_192
+  - first:
+      213: 1396496234423723341
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_193
+  - first:
+      213: 4379397779398477943
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_194
+  - first:
+      213: 2949787367691735643
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_195
+  - first:
+      213: 4286775961379013690
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_196
+  - first:
+      213: -192104264661683849
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_197
+  - first:
+      213: -2475687035919431978
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_198
+  - first:
+      213: -3234794269463249158
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_199
+  - first:
+      213: -4756927088790591274
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_200
+  - first:
+      213: -4830065369384174555
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_201
+  - first:
+      213: -5981207971277722828
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_202
+  - first:
+      213: 5192968610442630883
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_203
+  - first:
+      213: -6293665500578633803
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_204
+  - first:
+      213: 4854396425576598627
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_205
+  - first:
+      213: -4030058373995176518
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_206
+  - first:
+      213: 1507577414048432203
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_207
+  - first:
+      213: -928780742776185470
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_208
+  - first:
+      213: 8909565784939383828
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_209
+  - first:
+      213: 1005267526154135472
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_210
+  - first:
+      213: 7728457185867428505
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_211
+  - first:
+      213: 531228166179859069
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_212
+  - first:
+      213: 2324346107561926389
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_213
+  - first:
+      213: -6185356420654032781
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_214
+  - first:
+      213: -42300526399685560
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_215
+  - first:
+      213: -6411683241909641673
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_216
+  - first:
+      213: -3538048796966225325
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_217
+  - first:
+      213: -2231305626655333590
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_218
+  - first:
+      213: 1857970351534103867
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_219
+  - first:
+      213: -7565934797663097437
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_220
+  - first:
+      213: 927632904455270448
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_221
+  - first:
+      213: 9184799798629212795
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_222
+  - first:
+      213: 4042617010718049075
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_223
+  - first:
+      213: 8157737192871666116
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_224
+  - first:
+      213: -3136238287642258708
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_225
+  - first:
+      213: 8149402404326794761
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_226
+  - first:
+      213: -7570042876313908102
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_227
+  - first:
+      213: 1423601150377921412
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_228
+  - first:
+      213: -2990616016183048967
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_229
+  - first:
+      213: 6704080818941057373
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_230
+  - first:
+      213: -6293677199207607955
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_231
+  - first:
+      213: -5206411615076906185
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_232
+  - first:
+      213: 5352178689909313315
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_233
+  - first:
+      213: 8141547579898985912
+    second: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_234
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2858
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b3a7e1f13017070800000000000000
+      internalID: 8102260636806429576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2858
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449111bb833b8b820800000000000000
+      internalID: 2934292213469878596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2858
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11d459b6e8dfe230800000000000000
+      internalID: 3670390706793664797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2858
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b3f1262db400360800000000000000
+      internalID: 7133785176716295040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2858
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7b9f5eb6c321630800000000000000
+      internalID: 3896243061746415615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2858
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f213040c96a106d10800000000000000
+      internalID: 2116720866363453743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2877
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613d811ce61114000800000000000000
+      internalID: 18315040869896982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2858
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce748ec1072414f60800000000000000
+      internalID: 8016761860984948716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2858
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96eb44900c4dda00800000000000000
+      internalID: 782865475604047519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2877
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b878d1b586fc5b9d0800000000000000
+      internalID: -2759071149582350453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2858
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4692ddfa2e1959070800000000000000
+      internalID: 8112550706576959844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2786
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c989edce2e212c0800000000000000
+      internalID: -4462254773796037564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2786
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548b2ab3e8a2fa750800000000000000
+      internalID: 6318315592598337605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2786
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665bec13f8d011760800000000000000
+      internalID: 7426732169177773414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2786
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ea607d33b758d60800000000000000
+      internalID: 7891849384617750036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2786
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b678c72a49737faa0800000000000000
+      internalID: -6127367656493512853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2786
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06402ff9873466b00800000000000000
+      internalID: 821418167400268896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2793
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6958780e31662a5c0800000000000000
+      internalID: -4205686866453232234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2796
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6202dda6d1942ae0800000000000000
+      internalID: -1574973618447580563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2807
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9794ffcf3a3293190800000000000000
+      internalID: -7982309677306263175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_20
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2786
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff71461e5a15747c0800000000000000
+      internalID: -4087208363922548737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2786
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d0b4263afecb90800000000000000
+      internalID: -7219558042177579594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2807
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d281f2b9529e65fb0800000000000000
+      internalID: -4659280416741582803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2786
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c19ae52a9b283d90800000000000000
+      internalID: -7117891269997981243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_24
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2818
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0464b0073dd3b40800000000000000
+      internalID: 5421722004602896563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_25
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2786
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765d31979fd9d9500800000000000000
+      internalID: 404653236336973159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2786
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69703d633d4b179d0800000000000000
+      internalID: -2778240675859986538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_27
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2807
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94810ea37c564d7e0800000000000000
+      internalID: -1741655249524877239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2708
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73ceae5c207b830800000000000000
+      internalID: 4086738235935176692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2708
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5faf033b1824a90800000000000000
+      internalID: -7331154636784863749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2718
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51278f3be31dfcbe0800000000000000
+      internalID: -1454714087379799531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2710
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af95dada9bcdb5720800000000000000
+      internalID: 2836103080400738810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2708
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c4e1780b03fd600800000000000000
+      internalID: 495168018773330980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2708
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cf1adb5d559c070800000000000000
+      internalID: 8127121379064675396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2726
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22127724c83f16450800000000000000
+      internalID: 6080408755662954786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2708
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0982ba4af82b4c630800000000000000
+      internalID: 3946475503496145040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2708
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c284fa27354bb40800000000000000
+      internalID: 5455076800684633206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_37
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2726
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2590882127e261b10800000000000000
+      internalID: 1951798555983743314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2629
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed86e1966f019e80800000000000000
+      internalID: -8173734915491852826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2629
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66846e5ca634bba50800000000000000
+      internalID: 6537893409924204646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2629
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8ec9ccac2afb060800000000000000
+      internalID: 6971469740092745977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2629
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84ee39f54ba678b0800000000000000
+      internalID: -5154744406456212337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2629
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9856acad201c5b0800000000000000
+      internalID: -5349991743617660496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2629
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b117a9d34191ae20800000000000000
+      internalID: 3360126517595541943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2629
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136be091c270cc710800000000000000
+      internalID: 1714753444101666353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2629
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73202acd7e63c2210800000000000000
+      internalID: 1309481961124921911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2676
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994bad03f6a3ac2a0800000000000000
+      internalID: -6716491645034253159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_47
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2646
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4debb3fe34b7960800000000000000
+      internalID: 7600743490896450741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_48
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2646
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c3bfc5d82158220800000000000000
+      internalID: 2487414767551724658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2548
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6c2353fb1259330800000000000000
+      internalID: 3716914172579202742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_50
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2548
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbcf7ca0ed838810800000000000000
+      internalID: 1766411474965613497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_51
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2548
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf1ee0e7209b6110800000000000000
+      internalID: 1255255422104641463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2548
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24de04ab50e0c5af0800000000000000
+      internalID: -406434448607744702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2548
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363deb6b02a6f7f60800000000000000
+      internalID: 8034256948989711203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_54
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2548
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659474a5e20765810800000000000000
+      internalID: 1753712449292814678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_55
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2548
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778fb9863e6e32020800000000000000
+      internalID: 2315948497785583735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_56
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2548
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df45023ae5474b820800000000000000
+      internalID: 2933097207137588477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_57
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2548
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f632711141cf0a0800000000000000
+      internalID: -6846575269874798765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_58
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2552
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607b0c6f24652d2f0800000000000000
+      internalID: -949601725814098170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2555
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf333644f0dc373c0800000000000000
+      internalID: -4362918148536323077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_60
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2555
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d977562e8e9c530800000000000000
+      internalID: 3875885013391613238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2464
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a8f00ffca7a09b0800000000000000
+      internalID: -5113139393421407662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2462
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af21cca0f742ffc0800000000000000
+      internalID: -3462626064478425181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2462
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d5a5b6ae3c333f0800000000000000
+      internalID: -922178087089971874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2467
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e9e83dda1720e30800000000000000
+      internalID: 4468258771697573388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_65
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2467
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5a049038193f970800000000000000
+      internalID: 8787527289911944685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_66
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2462
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0688e6baba36fdf70800000000000000
+      internalID: 9214192951590029408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_67
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2461
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55425560b31f4e520800000000000000
+      internalID: 2730572509904970837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_68
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2467
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6228a0ceea5d1d0800000000000000
+      internalID: -3326560420931426600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_69
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2467
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2fa5a9504c33190800000000000000
+      internalID: -7983822186054225230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_70
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2465
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d417d1d013e29cd0800000000000000
+      internalID: -2552728377386134312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2379
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25699f8c359b08420800000000000000
+      internalID: 2630305951889593938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_72
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2379
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea741f7b4ca40430800000000000000
+      internalID: 3748310230133668589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2379
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9726f9ec2cafcd0800000000000000
+      internalID: -2523490448494659123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_74
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2379
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845b07671bada1ab0800000000000000
+      internalID: -5036472777529313976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_75
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2379
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ed7e6f7860e0e60800000000000000
+      internalID: 7930283174878764544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_76
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2379
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1dfb1a23d5ab3d0800000000000000
+      internalID: -3190134913995124316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2398
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1480c485a33d70d0800000000000000
+      internalID: -3423523355741879267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2366
+        width: 124
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972df71bfabf139d0800000000000000
+      internalID: -2796177161604574599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_79
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2283
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523a721f12c8e3fa0800000000000000
+      internalID: -5819059591108386011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_80
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2283
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffb16d7d8ecacdd0800000000000000
+      internalID: -2464930738942656516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_81
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2283
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd524673142311af0800000000000000
+      internalID: -427505233939913249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_82
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2283
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a037311d39722e0800000000000000
+      internalID: -2150587770862368145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_83
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2283
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f827d7f7eadbbc0800000000000000
+      internalID: -3765661850823127175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_84
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2285
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3de6f7afa3dbf20800000000000000
+      internalID: 3439970537935131587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_85
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2281
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab8653481af27790800000000000000
+      internalID: -7533684244521514067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_86
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2299
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9422994ab03329f90800000000000000
+      internalID: -6948435149980097975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2187
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9b7b65841e62d40800000000000000
+      internalID: 5559378490844232186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_88
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2187
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2acb97d578e7390800000000000000
+      internalID: -7818663067524488480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_89
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2187
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e21481d300b79480800000000000000
+      internalID: -8892445408773270815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_90
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2187
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1077c8fce39bb770800000000000000
+      internalID: 8627652157153701916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_91
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2187
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c9431ea0826cd60800000000000000
+      internalID: 7910053822715960428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_92
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2187
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d800ba75836b090800000000000000
+      internalID: -8019160137304339110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_93
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2058
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4f67dd606efb4c0800000000000000
+      internalID: -4269441004564187929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_94
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2058
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc4433cae383da60800000000000000
+      internalID: 7697641232426880241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_95
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2058
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6736d433a9da970800000000000000
+      internalID: 8767833594692597430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_96
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2058
+        width: 67
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5208449, y: 0.33677772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e22b3f6949c8bb20800000000000000
+      internalID: 3150489256581604071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_97
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2059
+        width: 67
+        height: 80
+      alignment: 9
+      pivot: {x: 0.50000226, y: 0.30798644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4673d8489a9789e50800000000000000
+      internalID: 6816331805005526884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_98
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2058
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0b0a5f7889db160800000000000000
+      internalID: 7042953101986279660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_99
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2058
+        width: 51
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5641234, y: 0.48007977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d08a61d9c705080800000000000000
+      internalID: -9200717024586101345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_100
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2058
+        width: 46
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6190358, y: 0.42943949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dcf2e87dd4a2280800000000000000
+      internalID: -9067349311558267597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_101
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2058
+        width: 65
+        height: 80
+      alignment: 9
+      pivot: {x: 0.53956956, y: 0.34245604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a8fbbbea087d0f0800000000000000
+      internalID: -1092262896651498954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_102
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2058
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c5542efa06119d0800000000000000
+      internalID: -2805354784343368627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1943
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066a79e6f57b7be00800000000000000
+      internalID: 1060517857774249568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_104
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1943
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926860178ad7ef020800000000000000
+      internalID: 2377475815702431273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_105
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1943
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e901f04064a81a850800000000000000
+      internalID: 6386537779908513950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_106
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1943
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af1b2d5f5803640800000000000000
+      internalID: 5057689672385428126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_107
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1943
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dfc52538eb14e70800000000000000
+      internalID: 9097762193496931680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1943
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9feaeadfbbc5614c0800000000000000
+      internalID: -4317161230303318279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_109
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1943
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868aad7d2e1d6c430800000000000000
+      internalID: 3802957707575208040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_110
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1907
+        width: 383
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66614a43bdccc33b0800000000000000
+      internalID: -5531321000464738714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_111
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1911
+        width: 5
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c5cf67b416a4d00800000000000000
+      internalID: 957684847516343412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_112
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1783
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76917e3449a92f250800000000000000
+      internalID: 5977009617059125607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_113
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1783
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228e715448f862af0800000000000000
+      internalID: -421491716854912990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_114
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1783
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46b0ba8fb92f26f0800000000000000
+      internalID: -707300713831549365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_115
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1783
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b07e7655a18ca3c0800000000000000
+      internalID: -4346956993198657360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_116
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1838
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c994a1c59174e050800000000000000
+      internalID: 5828908705737120195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_117
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1783
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2f6c784cfccd920800000000000000
+      internalID: 3016514293429891764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_118
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1783
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045a1246a728108a0800000000000000
+      internalID: -6340643338183400128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_119
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1783
+        width: 133
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be837f59a0b900a0800000000000000
+      internalID: -6914801511353315659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_120
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1780
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c8cc1074fccaca0800000000000000
+      internalID: -6004196299311903615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_121
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1783
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1ce1ba008b3e5f0800000000000000
+      internalID: -728536401693457999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_122
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1783
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9838bbe68956850800000000000000
+      internalID: 6369664849345219061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_123
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1783
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5798ff73409f039c0800000000000000
+      internalID: -3949383076689245835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_124
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1621
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb93bdda0c785930800000000000000
+      internalID: 4132189044223482844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_125
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1621
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da22d5d10b62a900800000000000000
+      internalID: 694234948194937556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_126
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1621
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbd06cdbf1435520800000000000000
+      internalID: 2689565952460250099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_127
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1621
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d84c5adc850c60800000000000000
+      internalID: 7783782400458806810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_128
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1626
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4665e482f1efcfae0800000000000000
+      internalID: -1514055964929665436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_129
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1636
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee5cdc68aaef4cf0800000000000000
+      internalID: -265735843889783069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_130
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1628
+        width: 145
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbff18417cdd894e0800000000000000
+      internalID: -1974584589489668163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_131
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1621
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d8857d351c17cd0800000000000000
+      internalID: -2562054147157750472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_132
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1621
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986715600f4ab5ca0800000000000000
+      internalID: -6027042325500168567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_133
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1119
+        width: 5
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a6e219d21e07670800000000000000
+      internalID: 8534568879692605965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_134
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1513
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718d70ee1ee3c6070800000000000000
+      internalID: 8100918969814734871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_135
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1513
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51546be2104c0ac00800000000000000
+      internalID: 909942634086548757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_136
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1513
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b528471682f404b0800000000000000
+      internalID: -5474984589245536847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_137
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1513
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05196a7158f1bf890800000000000000
+      internalID: -7423304904302227120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_138
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1513
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286de1b55b235e3f0800000000000000
+      internalID: -872235198327105918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_139
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1513
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aff0b3e61a93cf0800000000000000
+      internalID: -272008807669827029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_140
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1513
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29eae331ee4e94f0800000000000000
+      internalID: -820131352989210325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_141
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1513
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95567f230dabbeec0800000000000000
+      internalID: -3536527678998354599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_142
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1405
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c77a3ba43f68d010800000000000000
+      internalID: 1213842371578066887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_143
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1395
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668d41bd902dce0d0800000000000000
+      internalID: -3392105479544711066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_144
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1395
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334f159d50fa5b420800000000000000
+      internalID: 2645212795805758515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_145
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1395
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a2856e50a824070800000000000000
+      internalID: 8089179638654839421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_146
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1395
+        width: 7
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c556b0f36d0d130800000000000000
+      internalID: 3589604469276761216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_147
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1395
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f80ba6db25c7f40800000000000000
+      internalID: 5727543799600680764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_148
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1448
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70faaa157c7d6280800000000000000
+      internalID: -9048439233917030273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_149
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1357
+        width: 393
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad4f6a62c7430b80800000000000000
+      internalID: -8429815177172529758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_150
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1424
+        width: 44
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45b0fa3d0da97f20800000000000000
+      internalID: 3420955664299636043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_151
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1429
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f2d1a0fe64f2e0800000000000000
+      internalID: -2092925947034273290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_152
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1405
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b5e6964669643c0800000000000000
+      internalID: -4375644629934122145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_153
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1411
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a018fc6031726a0800000000000000
+      internalID: -6474185019349726680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_154
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1405
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b415bc1504283ad0800000000000000
+      internalID: -2722386370370399055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_155
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1413
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dcbd0990629a630800000000000000
+      internalID: 3938721171639094610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_156
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1236
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b39d8baa2aaddec0800000000000000
+      internalID: -3540486631799811146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_157
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1236
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdce70cadd7dff560800000000000000
+      internalID: 7349830463965883611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_158
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1236
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aa42f8475c24550800000000000000
+      internalID: 6143689946095200807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_159
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1236
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56646d97bc2c8700800000000000000
+      internalID: 543858822136227419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_160
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1236
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1ed83247e2be40800000000000000
+      internalID: 5670849152420814411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_161
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1236
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639e945c0cc6bbc20800000000000000
+      internalID: 3223289533513197878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_162
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1236
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2810ec9010a217cd0800000000000000
+      internalID: -2562220529049271934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_163
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1236
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dddd25067d58db0800000000000000
+      internalID: -4790185819931550397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_164
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465f4622b079e2080800000000000000
+      internalID: -9210258113848609436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_165
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1236
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f600cec12d48d3100800000000000000
+      internalID: 89373605580505199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_166
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1236
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c2c4b9ecbb95d10800000000000000
+      internalID: 2114927996070276161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_167
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1062
+        width: 233
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcce3d7aa4fbe970800000000000000
+      internalID: 8785384511199169779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_168
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1262
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c5e06767ec77d0800000000000000
+      internalID: -2919204027249605253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_169
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1062
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ca7960b97afa8c0800000000000000
+      internalID: -3985782860927226789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_170
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1062
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5fa5f89cd642bc0800000000000000
+      internalID: -3808798672387639897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_171
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1062
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fd9d101418265a0800000000000000
+      internalID: -6529514393529884848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_172
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1062
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e76875e2a662a0800000000000000
+      internalID: -6744524285489453260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_173
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1062
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cfb901dcf683190800000000000000
+      internalID: -7982507412976567251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_174
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1062
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20677caebecc18cc0800000000000000
+      internalID: -3710459304348256766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_175
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1062
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84bfc1ba9e3c34b0800000000000000
+      internalID: -5459419814150818675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_176
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1064
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8e175eb6eea0440800000000000000
+      internalID: 4902993291524565232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_177
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1064
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b38692a93b86b30800000000000000
+      internalID: 4280868920516688772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_178
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1062
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d2dc38898a41250800000000000000
+      internalID: 5914537583644060966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_179
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1061
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3af10c3844027450800000000000000
+      internalID: 6084930754821880382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_180
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1048
+        width: 164
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6ee08344a7505e0800000000000000
+      internalID: -1944013230723635545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_181
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 910
+        width: 125
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b582827c64f98e80800000000000000
+      internalID: -8175734901899622989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_182
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 849
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2b348fbf5261690800000000000000
+      internalID: -7631870754400521496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_183
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 849
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48244d2c6062604f0800000000000000
+      internalID: -862960468114521468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_184
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 849
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0531ad7eb7a3ba660800000000000000
+      internalID: 7398071116731388752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_185
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 803
+        width: 126
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc35ac0d566c6850800000000000000
+      internalID: 6371580122652556529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_186
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 800
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dbc343f799a8cd0800000000000000
+      internalID: -2555061066963043020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_187
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 183
+        width: 5
+        height: 751
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17838cd435ed81cd0800000000000000
+      internalID: -2587073536555730831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_188
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 849
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bbc36eb1752d060800000000000000
+      internalID: 6976734550088792929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_189
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 849
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaa608d4d09cc490800000000000000
+      internalID: -7724640017015461157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_190
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 849
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45048a6aea44e36d0800000000000000
+      internalID: -3008891984125869996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_191
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 849
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ec35a812328e5f0800000000000000
+      internalID: -727292712858694098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_192
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 849
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8bad23bbcaf04d0800000000000000
+      internalID: -3166122093006112533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_193
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 849
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d452ffe1de9516310800000000000000
+      internalID: 1396496234423723341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_194
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 849
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7784e2bc31fb6cc30800000000000000
+      internalID: 4379397779398477943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_195
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 890
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5253367bffbfe820800000000000000
+      internalID: 2949787367691735643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_196
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 888
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a340ea94600bd7b30800000000000000
+      internalID: 4286775961379013690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_197
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 654
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771b0096032855df0800000000000000
+      internalID: -192104264661683849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_198
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 654
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d68bf0f1c794add0800000000000000
+      internalID: -2475687035919431978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_199
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 654
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe7c2720c3bb13d0800000000000000
+      internalID: -3234794269463249158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_200
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 654
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8243a14000cfdb0800000000000000
+      internalID: -4756927088790591274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_201
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 654
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb0f7232928fcb0800000000000000
+      internalID: -4830065369384174555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_202
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 654
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba1483a0b7efca0800000000000000
+      internalID: -5981207971277722828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_203
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 653
+        width: 133
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6df2b0071211840800000000000000
+      internalID: 5192968610442630883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_204
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 654
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b721ee829868a8a0800000000000000
+      internalID: -6293665500578633803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_205
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 653
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c4b6154d74e5340800000000000000
+      internalID: 4854396425576598627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_206
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 654
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abddde1d24b5218c0800000000000000
+      internalID: -4030058373995176518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_207
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 654
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4042cbabadfbe410800000000000000
+      internalID: 1507577414048432203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_208
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 654
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d1a98d5de4c13f0800000000000000
+      internalID: -928780742776185470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_209
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 654
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c494260e225ab70800000000000000
+      internalID: 8909565784939383828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_210
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 544
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b727a82d7d63fd00800000000000000
+      internalID: 1005267526154135472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_211
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 544
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99271790ddef04b60800000000000000
+      internalID: 7728457185867428505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_212
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 544
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a25dbd33d4f5700800000000000000
+      internalID: 531228166179859069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_213
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 549
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe5a4c487cb14020800000000000000
+      internalID: 2324346107561926389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_214
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 547
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3781cb95b13392aa0800000000000000
+      internalID: -6185356420654032781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_215
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 545
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c722635e7b96ff0800000000000000
+      internalID: -42300526399685560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_216
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 544
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e96a1ef002507a0800000000000000
+      internalID: -6411683241909641673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_217
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 544
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a74d25d5356eec0800000000000000
+      internalID: -3538048796966225325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_218
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 544
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e0e1ca5fc801e0800000000000000
+      internalID: -2231305626655333590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_219
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 544
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dd566d036d8c910800000000000000
+      internalID: 1857970351534103867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_220
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 565
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad26873366600790800000000000000
+      internalID: -7565934797663097437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_221
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 547
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0303508363d9fdc00800000000000000
+      internalID: 927632904455270448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_222
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 547
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72af52f0c6f67f70800000000000000
+      internalID: 9184799798629212795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_223
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 530
+        width: 144
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3330dc6a0c24a1830800000000000000
+      internalID: 4042617010718049075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_224
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 439
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ab1061ca163170800000000000000
+      internalID: 8157737192871666116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_225
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 439
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce29a16d4e7d974d0800000000000000
+      internalID: -3136238287642258708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_226
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 434
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906ec913f4e781170800000000000000
+      internalID: 8149402404326794761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_227
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 322
+        width: 159
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c45de9c1ec1f690800000000000000
+      internalID: -7570042876313908102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_228
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 213
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b0d1624b5a1c310800000000000000
+      internalID: 1423601150377921412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_229
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 213
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c0d704923f76d0800000000000000
+      internalID: -2990616016183048967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_230
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 213
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59dd7e2cfda90d50800000000000000
+      internalID: 6704080818941057373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_231
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 232
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d615142ceed58a8a0800000000000000
+      internalID: -6293677199207607955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_232
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 213
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b8fd8883c1fb7b0800000000000000
+      internalID: -5206411615076906185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_233
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 215
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fc5725922c64a40800000000000000
+      internalID: 5352178689909313315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_234
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 213
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf1dd53669cf070800000000000000
+      internalID: 8141547579898985912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7a82025c6baeb234db49d742983b3449
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_0: 8102260636806429576
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_1: 2934292213469878596
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_10: 8112550706576959844
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_100: -9067349311558267597
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_101: -1092262896651498954
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_102: -2805354784343368627
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_103: 1060517857774249568
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_104: 2377475815702431273
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_105: 6386537779908513950
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_106: 5057689672385428126
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_107: 9097762193496931680
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_108: -4317161230303318279
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_109: 3802957707575208040
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_11: -4462254773796037564
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_110: -5531321000464738714
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_111: 957684847516343412
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_112: 5977009617059125607
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_113: -421491716854912990
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_114: -707300713831549365
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_115: -4346956993198657360
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_116: 5828908705737120195
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_117: 3016514293429891764
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_118: -6340643338183400128
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_119: -6914801511353315659
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_12: 6318315592598337605
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_120: -6004196299311903615
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_121: -728536401693457999
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_122: 6369664849345219061
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_123: -3949383076689245835
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_124: 4132189044223482844
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_125: 694234948194937556
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_126: 2689565952460250099
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_127: 7783782400458806810
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_128: -1514055964929665436
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_129: -265735843889783069
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_13: 7426732169177773414
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_130: -1974584589489668163
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_131: -2562054147157750472
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_132: -6027042325500168567
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_133: 8534568879692605965
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_134: 8100918969814734871
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_135: 909942634086548757
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_136: -5474984589245536847
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_137: -7423304904302227120
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_138: -872235198327105918
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_139: -272008807669827029
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_14: 7891849384617750036
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_140: -820131352989210325
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_141: -3536527678998354599
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_142: 1213842371578066887
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_143: -3392105479544711066
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_144: 2645212795805758515
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_145: 8089179638654839421
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_146: 3589604469276761216
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_147: 5727543799600680764
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_148: -9048439233917030273
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_149: -8429815177172529758
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_15: -6127367656493512853
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_150: 3420955664299636043
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_151: -2092925947034273290
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_152: -4375644629934122145
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_153: -6474185019349726680
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_154: -2722386370370399055
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_155: 3938721171639094610
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_156: -3540486631799811146
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_157: 7349830463965883611
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_158: 6143689946095200807
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_159: 543858822136227419
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_16: 821418167400268896
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_160: 5670849152420814411
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_161: 3223289533513197878
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_162: -2562220529049271934
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_163: -4790185819931550397
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_164: -9210258113848609436
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_165: 89373605580505199
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_166: 2114927996070276161
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_167: 8785384511199169779
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_168: -2919204027249605253
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_169: -3985782860927226789
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_17: -4205686866453232234
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_170: -3808798672387639897
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_171: -6529514393529884848
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_172: -6744524285489453260
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_173: -7982507412976567251
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_174: -3710459304348256766
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_175: -5459419814150818675
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_176: 4902993291524565232
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_177: 4280868920516688772
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_178: 5914537583644060966
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_179: 6084930754821880382
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_18: -1574973618447580563
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_180: -1944013230723635545
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_181: -8175734901899622989
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_182: -7631870754400521496
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_183: -862960468114521468
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_184: 7398071116731388752
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_185: 6371580122652556529
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_186: -2555061066963043020
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_187: -2587073536555730831
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_188: 6976734550088792929
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_189: -7724640017015461157
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_19: -7982309677306263175
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_190: -3008891984125869996
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_191: -727292712858694098
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_192: -3166122093006112533
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_193: 1396496234423723341
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_194: 4379397779398477943
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_195: 2949787367691735643
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_196: 4286775961379013690
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_197: -192104264661683849
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_198: -2475687035919431978
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_199: -3234794269463249158
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_2: 3670390706793664797
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_20: -4087208363922548737
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_200: -4756927088790591274
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_201: -4830065369384174555
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_202: -5981207971277722828
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_203: 5192968610442630883
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_204: -6293665500578633803
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_205: 4854396425576598627
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_206: -4030058373995176518
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_207: 1507577414048432203
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_208: -928780742776185470
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_209: 8909565784939383828
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_21: -7219558042177579594
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_210: 1005267526154135472
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_211: 7728457185867428505
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_212: 531228166179859069
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_213: 2324346107561926389
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_214: -6185356420654032781
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_215: -42300526399685560
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_216: -6411683241909641673
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_217: -3538048796966225325
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_218: -2231305626655333590
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_219: 1857970351534103867
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_22: -4659280416741582803
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_220: -7565934797663097437
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_221: 927632904455270448
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_222: 9184799798629212795
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_223: 4042617010718049075
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_224: 8157737192871666116
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_225: -3136238287642258708
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_226: 8149402404326794761
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_227: -7570042876313908102
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_228: 1423601150377921412
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_229: -2990616016183048967
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_23: -7117891269997981243
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_230: 6704080818941057373
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_231: -6293677199207607955
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_232: -5206411615076906185
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_233: 5352178689909313315
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_234: 8141547579898985912
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_24: 5421722004602896563
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_25: 404653236336973159
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_26: -2778240675859986538
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_27: -1741655249524877239
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_28: 4086738235935176692
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_29: -7331154636784863749
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_3: 7133785176716295040
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_30: -1454714087379799531
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_31: 2836103080400738810
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_32: 495168018773330980
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_33: 8127121379064675396
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_34: 6080408755662954786
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_35: 3946475503496145040
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_36: 5455076800684633206
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_37: 1951798555983743314
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_38: -8173734915491852826
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_39: 6537893409924204646
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_4: 3896243061746415615
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_40: 6971469740092745977
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_41: -5154744406456212337
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_42: -5349991743617660496
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_43: 3360126517595541943
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_44: 1714753444101666353
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_45: 1309481961124921911
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_46: -6716491645034253159
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_47: 7600743490896450741
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_48: 2487414767551724658
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_49: 3716914172579202742
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_5: 2116720866363453743
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_50: 1766411474965613497
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_51: 1255255422104641463
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_52: -406434448607744702
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_53: 8034256948989711203
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_54: 1753712449292814678
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_55: 2315948497785583735
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_56: 2933097207137588477
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_57: -6846575269874798765
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_58: -949601725814098170
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_59: -4362918148536323077
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_6: 18315040869896982
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_60: 3875885013391613238
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_61: -5113139393421407662
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_62: -3462626064478425181
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_63: -922178087089971874
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_64: 4468258771697573388
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_65: 8787527289911944685
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_66: 9214192951590029408
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_67: 2730572509904970837
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_68: -3326560420931426600
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_69: -7983822186054225230
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_7: 8016761860984948716
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_70: -2552728377386134312
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_71: 2630305951889593938
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_72: 3748310230133668589
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_73: -2523490448494659123
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_74: -5036472777529313976
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_75: 7930283174878764544
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_76: -3190134913995124316
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_77: -3423523355741879267
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_78: -2796177161604574599
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_79: -5819059591108386011
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_8: 782865475604047519
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_80: -2464930738942656516
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_81: -427505233939913249
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_82: -2150587770862368145
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_83: -3765661850823127175
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_84: 3439970537935131587
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_85: -7533684244521514067
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_86: -6948435149980097975
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_87: 5559378490844232186
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_88: -7818663067524488480
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_89: -8892445408773270815
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_9: -2759071149582350453
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_90: 8627652157153701916
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_91: 7910053822715960428
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_92: -8019160137304339110
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_93: -4269441004564187929
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_94: 7697641232426880241
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_95: 8767833594692597430
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_96: 3150489256581604071
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_97: 6816331805005526884
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_98: 7042953101986279660
+      Custom _ Edited - Dragon Ball Customs - Goku - Goku (1) (2) (1)_99: -9200717024586101345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
